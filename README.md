@@ -17,9 +17,11 @@ Next, you need to identify the complication in your story. This is typically the
 Finally, like any story, it should end in a resolution. The resolution of your data story is the necessary action taken to solve a problem or leverage an opportunity. It answers the questions: How did the story end? What were the results of the complication? What do your results tell you about the campaign? For instance, if the results show that you are maximizing your profits but are not driving new customers, explain the data-driven action you will be taking to change that.
 
 
+
 ### Example story
 
 <img width="757" alt="image" src="https://github.com/user-attachments/assets/e868e3c4-a4fd-4215-8207-099ec8d5758c">
+
 
 Now, review an example data story. Using the graphs above as a reference image, recall the toy company example from a previous video. Recall that in the video, you measured the results of a new social media campaign for your toy company.
 
@@ -28,6 +30,7 @@ The context of the data story may be your past social media campaign’s perform
 When you take a look at your past return on ad spend (ROAS) and conversion rates to compare them to this campaign’s numbers, you notice an increase in both ROAS and conversion rates. That increase is the complication of your campaign. Remember that although complication sounds unfavorable, this won’t always be the case.
 
 Finally, the resolution of your campaign tells the story of why ROAS and conversion rates are soaring. Did the ROAS and conversion rates increase because you changed the copy, switched out the images, ran a promotion in your ads, or something else? Your findings are your resolution.
+
 
 ### Key takeaways
 Data isn’t just numbers and figures. Data tells a story that can be integral to your company’s future successes. To create effective campaigns, you have to find the stories in the data. Identifying your context, complication, and resolution will help you get there.
