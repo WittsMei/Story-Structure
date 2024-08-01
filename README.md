@@ -1,6 +1,6 @@
 # Story-Structure
 
-- **Data storytelling** is the practice of explaining data insights to a specific audience using a clear and compelling narrative. Formulating a story from data is a very important piece of digital marketing. Each time you tell your compelling data story, it should be structured using three elements. In this reading, you will learn the importance of identifying story elements from data.
+**Data storytelling** is the practice of explaining data insights to a specific audience using a clear and compelling narrative. Formulating a story from data is a very important piece of digital marketing. Each time you tell your compelling data story, it should be structured using three elements. In this reading, you will learn the importance of identifying story elements from data.
 
 
 ### The three-part data story structure
